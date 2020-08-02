@@ -1,3 +1,3 @@
 base:
   'master':
-    - base.blabla
+    - blabla
